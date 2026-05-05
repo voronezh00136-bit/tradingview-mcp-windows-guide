@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "tradingview-desktop": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "C:\\Users\\USERNAME\\.claude\\tools\\tradingview-mcp\\src\\server.js"
+      ],
+      "env": {}
+    }
+  }
+}
