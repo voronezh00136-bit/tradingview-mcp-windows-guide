@@ -1,0 +1,39 @@
+# Local Claude Code configuration — contains absolute paths
+.claude.json
+.mcp.json
+.claude/
+**/.claude.json
+**/.mcp.json
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# PowerShell transcripts and logs
+*.log
+PowerShell_transcript.*
+
+# Build / temp
+dist/
+build/
+out/
+tmp/
+temp/
